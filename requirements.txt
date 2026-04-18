@@ -1,0 +1,11 @@
+streamlit>=1.32
+pandas>=2.0
+openpyxl>=3.1
+XlsxWriter>=3.0
+requests>=2.31
+PyGithub>=2.0
+mysql-connector-python>=8.3
+google-generativeai>=0.4
+google-genai>=0.3
+Pillow>=10.0
+python-dateutil>=2.8
